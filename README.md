@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Economics student at Tilburg University, minoring in Information & Supply Chain 
+I'm an Economics student at Tilburg University, minoring in Information & Supply Chain 
 Management and Operations Management for Sustainable Development. I'm exploring 
 a career in data analysis and supply chain analytics, and building hands-on 
 projects to get there.
